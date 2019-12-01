@@ -94,7 +94,7 @@ void GameDisplay()/**/{
 		}
 
 		DrawString( 800, 100 , "Abdullah Naveed" , colors[45]);
-		DrawString( 800, 70 , "18I-0654 (A)" , colors[45]);
+		DrawString( 800, 70 , "Centipede Game" , colors[45]);
 	}
 	///////////////////////////////////////////
 
